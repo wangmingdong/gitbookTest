@@ -51,13 +51,13 @@ $ npm uninstall -g gitbook
 
 #### book.json
 
-新建一个 book.json 文件，可以配置网站信息、在 ```plugins``` 和 ```pluginsConfig``` 字段添加插件等。
+新建一个 book.json 文件，可以配置网站信息、在 ``plugins`` 和 ``pluginsConfig`` 字段添加插件等。
 
 插件命名方式为：
 
-```gitbook-plugin-X```: 插件；
+``gitbook-plugin-X``: 插件；
 
-```gitbook-theme-X```: 主题。
+``gitbook-theme-X``: 主题。
 
 可以在 [npmjs](https://link.jianshu.com/?t=https://www.npmjs.com/) 或 [GitBook插件](https://link.jianshu.com/?t=https://plugins.gitbook.com/)  直接搜索插件或者主题。
 book.json 内容大概如下：
